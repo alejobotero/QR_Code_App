@@ -43,3 +43,7 @@ qr_app/
    ```
 2. Add `gunicorn` to `requirements.txt`
 3. Push to your platform of choice — all three support free tiers.
+
+<img width="1896" height="1114" alt="image" src="https://github.com/user-attachments/assets/7cb2f4d1-fc47-47e9-a2bd-e1872119efdd" />
+
+
